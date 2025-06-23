@@ -56,7 +56,7 @@ Asegúrate de tener instalado:
 
 1.  **Clona el Repositorio:**
     ```bash
-    git clone [https://github.com/TuUsuario/TuRepositorioDeAuroraAI.git](https://github.com/TuUsuario/TuRepositorioDeAuroraAI.git)
+    git clone [https://github.com/LuferOS/AuroraBot-DISCORD.git](https://github.com/LuferOS/AuroraBot-DISCORD.git)
     cd TuRepositorioDeAuroraAI # ¡Cambia esto por el nombre real de tu carpeta!
     ```
 
